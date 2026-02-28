@@ -1,0 +1,8 @@
+C:\Users\asus\cesde-backend2-actividad2\src\main\java\com\cesde\pi\controller\StudentController.java
+C:\Users\asus\cesde-backend2-actividad2\src\main\java\com\cesde\pi\dto\StudentDTO.java
+C:\Users\asus\cesde-backend2-actividad2\src\main\java\com\cesde\pi\exception\GlobalExceptionHandler.java
+C:\Users\asus\cesde-backend2-actividad2\src\main\java\com\cesde\pi\exception\ResourceNotFoundException.java
+C:\Users\asus\cesde-backend2-actividad2\src\main\java\com\cesde\pi\model\Student.java
+C:\Users\asus\cesde-backend2-actividad2\src\main\java\com\cesde\pi\PiApplication.java
+C:\Users\asus\cesde-backend2-actividad2\src\main\java\com\cesde\pi\repository\StudentRepository.java
+C:\Users\asus\cesde-backend2-actividad2\src\main\java\com\cesde\pi\service\StudentService.java
